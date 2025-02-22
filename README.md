@@ -1,5 +1,5 @@
-### Hi there 👋, Welcome to My GitHub Profile!
-####  I'm Rajib Hossain,
+# Hi there 👋, Welcome to My GitHub Profile!
+###  I'm Rajib Hossain,
 A passionate **Web Application Developer** with a focus on **React.js** for frontend and **Laravel** for backend. I'm always eager to explore new technologies and work on meaningful projects.
 
 **What I Do:**  
@@ -9,15 +9,15 @@ A passionate **Web Application Developer** with a focus on **React.js** for fron
 - 🎯 Always learning new technologies  
 - 📚 I'm currently learning about PHP(Laravel), and MySQL 
 
-##### 🚀 Technologies I Have Learned
+#### 🚀 Technologies I Have Learned
 
-###### 🔧 *Frontend Development**  
+##### 🔧 **Frontend Development**  
 - React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap,HTML5 , CSS3, DaisyUI , JQuery , Figma
 
-###### 🖥️ *Backend Development**  
+##### 🖥️ **Backend Development**  
 - Laravel, PHP, MySQL, Firebase
 
-###### ⚙️ *Tools & Platforms**  
+##### ⚙️ **Tools & Platforms**  
 - Git, GitHub, VScode,, Vercel, Netlify, API Development
 
 
@@ -29,8 +29,6 @@ A passionate **Web Application Developer** with a focus on **React.js** for fron
 ###### 🔔 **Thanks for Visiting!**  
 Feel free to explore my repositories, open issues, or send me a message if you're interested in collaborating!
 
-
-- 🔭 I’m currently working on this page. 
 
 
 
