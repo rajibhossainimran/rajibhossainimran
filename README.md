@@ -15,10 +15,10 @@ A passionate **Web Application Developer** with a focus on **React.js** for fron
 - React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap,HTML5 , CSS3, DaisyUI , JQuery , Figma
 
 ##### 🖥️ **Backend Development**  
-- Laravel, PHP, MySQL, Firebase
+- Laravel, PHP, MySQL
 
 ##### ⚙️ **Tools & Platforms**  
-- Git, GitHub, VScode,, Vercel, Netlify, API Development
+- Git, GitHub, VScode,, Vercel, Netlify, API Development,  Firebase
 
 
 
