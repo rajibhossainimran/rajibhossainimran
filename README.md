@@ -26,8 +26,8 @@ A passionate **Web Application Developer** with a focus on **React.js** for fron
 [💼 LinkedIn](https://www.linkedin.com/in/rajibhossainimran) | [🌐 Portfolio](https://rajibhossain.netlify.app/) | [📬 Email Me](mailto:rajibhossainimran@email.com)  
 
 
-##### 🔔 **Thanks for Visiting!**  
-Feel free to explore my repositories, open issues, or send me a message if you're interested in collaborating!
+#### 🔔 **Thanks for Visiting**  
+Feel free to explore my repositories, open issues, or send me a message if you're interested in collaborating.
 
 
 
