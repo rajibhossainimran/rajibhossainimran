@@ -1,5 +1,5 @@
 # Hi there 👋, Welcome to My GitHub Profile!
-##  I'm Rajib Hossain,
+# I'm Rajib Hossain,
 A passionate **Web Application Developer** with a focus on **React.js** for frontend and **Laravel** for backend. I'm always eager to explore new technologies and work on meaningful projects.
 
 **What I Do:**  
